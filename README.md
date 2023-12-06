@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SumaB0701
 - 👀 I’m interested in Automation Testing, Travelling & Photography
 - 🌱 I’m currently learning CI CD 
-- 💞️ I’m upskilling currently
+- 💞️ I’m upskilling from ETL, Functional & Manual Testing to Automation 
 - 📫 Reach me on whatsapp @ +91-8762137781
 
 <!---
